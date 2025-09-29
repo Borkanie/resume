@@ -3,7 +3,7 @@
 📞 +40741278054  
 ✉️ bobocbogdanfarc@gmail.com  
 
-![Profile Picture](./image.jpeg)
+![Profile Picture](./image.jpeg){ width: 100px; }
 
 ---
 
