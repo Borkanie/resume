@@ -25,8 +25,6 @@
 - Contributed to fostering a **collaborative work environment**, promoting team productivity and professional development.  
 - Gained hands-on experience in **software design, architecture, and interpersonal team dynamics**.  
 
-![Bosch Experience](./bdd80bf3-a65f-4d33-983f-6f65ba6d9816.png)
-
 ### Software Engineer  
 **Capgemini** | Oct 2022 – Dec 2024  
 - Contributed to a **complex semiconductor-related project** involving multiple interconnected services and a sophisticated infrastructure.  
@@ -35,8 +33,6 @@
 - Gained extensive experience in **system integration**, understanding component interactions, and ensuring seamless data flow.  
 - Applied advanced programming principles to **design, optimize, and maintain critical software modules**.  
 - Enhanced adaptability to **diverse technological frameworks**, preparing for multi-language and cross-platform development challenges.  
-
-![Capgemini Experience](./e2a0d5aa-1651-4997-a882-84b9107d8f61.png)
 
 ### Software Engineer  
 **Betfair** | Nov 2024 – Present  
