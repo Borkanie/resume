@@ -7,7 +7,7 @@
 
   <td style="padding-left:20px; font-family:Arial,Helvetica,sans-serif; line-height:1.4;">
     <strong>Bogdan Ioan Boboc</strong><br>
-    **Software Developer**<br><br>
+    Software Developer<br><br>
     📞 +40 741 278 054<br>
     ✉️ bobocbogdanfac@gmail.com
   </td>
