@@ -1,18 +1,9 @@
-<table>
-<tr>
-  <td style="text-align:center; vertical-align:top;">
-    <img src="./image.jpeg" alt="Profile Picture"
-         width="150" height="200">
-  </td>
+# Bogdan Ioan Boboc  
 
-  <td style="padding-left:20px; font-family:Arial,Helvetica,sans-serif; line-height:1.4;">
-    <strong>Bogdan Ioan Boboc</strong><br>
-    Software Developer<br><br>
-    📞 +40 741 278 054<br>
-    ✉️ bobocbogdanfac@gmail.com
-  </td>
-</tr>
-</table>
+**Software Engineer**   
+📞 +40 741 278 054  
+✉️ bobocbogdanfac@gmail.com     
+
 
 ---
 
